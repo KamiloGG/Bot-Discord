@@ -1,0 +1,25 @@
+{
+  "name": "bot-discord",
+  "version": "1.0.0",
+  "description": "Bot Muzyczny ( Open Source )",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KamiloGG/Bot-Discord.git"
+  },
+  "keywords": [
+    "music"
+  ],
+  "author": "KamiloGG",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/KamiloGG/Bot-Discord/issues"
+  },
+  "homepage": "https://github.com/KamiloGG/Bot-Discord#readme",
+  "dependencies": {
+    "discord.js": "^12.5.3"
+  }
+}
